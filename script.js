@@ -1,7 +1,14 @@
-const menuToggle = document.querySelector(".toggle");
-const showcase = document.querySelector(".showcase");
+const panels = document.querySelectorAll(".panel");
 
-menuToggle.addEventListener("click", () => {
-  menuToggle.classList.toggle("active");
-  showcase.classList.toggle("active");
+panels.forEach((panel) => {
+  panel.addEventListener("click", () => {
+    removeActiveClasses();
+    panel.classList.add("active");
+  });
 });
+
+const removeActiveClasses = () => {
+  panels.forEach((panel) => {
+    panel.classList.remove("active");
+  });
+};
