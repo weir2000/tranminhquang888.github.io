@@ -681,7 +681,7 @@ header .td_Color {
   margin: 5 0;
   font-size: 20px;
   font-weight: 500;
-  color: #00CC33;
+  color: rgb(202, 8, 220);
   margin-top: 5px;
 }
 @media screen and (max-width: 768px) {
@@ -712,18 +712,18 @@ SKILLS START
 }
 
 .color_html__ {
-  background-color: #f9d74c;
+  background-color: #f94c4c;
 }
 
 .color_php__ {
-  background-color: #6c6ce5;
+  background-color: rgb(233, 0, 206);
 }
 
 .color_javascript__ {
-  background-color: #f9d74c;
+  background-color: #fbff08;
 }
 .color_python__ {
-  background-color: #ff00ff;
+  background-color: rgb(0, 145, 255);
 }
 .skill-name {
   font-size: 17px;
