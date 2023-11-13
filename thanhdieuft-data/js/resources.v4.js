@@ -186,7 +186,7 @@ document.body.appendChild(DevScript);*/
 
 // CHECK DOMAIN VERIFY
 (function () {
-  const MienChinh__ = ["api.thanhdieu.com","https://tranminhquang888.github.io/","admln.vn","localhost"];
+  const MienChinh__ = ["api.thanhdieu.com","https://tranminhquang888.github.io","admln.vn","localhost"];
   const MienHienTai__ = window.location.hostname;
   const CheckDomain__ = MienChinh__.includes(MienHienTai__);
   if (!CheckDomain__) {
