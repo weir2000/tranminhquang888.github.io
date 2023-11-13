@@ -143,7 +143,7 @@ var embeddedHTML = `
 <footer class="ChanTrang__">
 <p class="ThanhDieuFtCopyright">
   <span class="copyright">Created by
-    <a href="//facebook.com/100035052735014" style="text-decoration: none;"><u style="color: aliceblue;">MinhQuang ♡</u></a><br>
+    <a href="//facebook.com/100014053117503" style="text-decoration: none;"><u style="color: aliceblue;">MinhQuang ♡</u></a><br>
     <strong>All rights reserved - © 2023</strong></span>
 </p>
 </footer>
@@ -190,7 +190,7 @@ document.body.appendChild(DevScript);*/
 
 // CHECK DOMAIN VERIFY
 (function () {
-  const MienChinh__ = ["api.thanhdieu.com","chat.vuaclmm.online","admln.vn","localhost"];
+  const MienChinh__ = ["api.thanhdieu.com","https://tranminhquang888.github.io/","admln.vn","localhost"];
   const MienHienTai__ = window.location.hostname;
   const CheckDomain__ = MienChinh__.includes(MienHienTai__);
   if (!CheckDomain__) {
@@ -214,7 +214,7 @@ document.body.appendChild(DevScript);*/
 })();
 // CHECK NAME OWNER
 var __Owner__ = ["Trần Minh Quang"];
-var __LinkThanhDieu__ = ["https://chat.vuaclmm.online/"];
+var __LinkThanhDieu__ = ["https://tranminhquang888.github.io/"];
 var __OwnerFound__ = false;
 var __DomainOwner__ = "VUACLMM.ONLINE";
 for (var i = 0; i < __Owner__.length; i++) {
