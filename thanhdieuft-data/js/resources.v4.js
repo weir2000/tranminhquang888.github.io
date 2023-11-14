@@ -143,7 +143,7 @@ var embeddedHTML = `
 <footer class="ChanTrang__">
 <p class="ThanhDieuFtCopyright">
   <span class="copyright">Created by
-    <a href="//facebook.com/100035052735014" style="text-decoration: none;"><u style="color: aliceblue;">MinhQuang ♡</u></a><br>
+    <a href="//facebook.com/100014053117503" style="text-decoration: none;"><u style="color: aliceblue;">MinhQuang ♡</u></a><br>
     <strong>All rights reserved - © 2023</strong></span>
 </p>
 </footer>
