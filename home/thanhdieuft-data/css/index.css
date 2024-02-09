@@ -654,34 +654,34 @@ header .td_Color {
   flex-direction: column;
   background-color: transparent;
   padding: 14px;
-  border-radius: 10px;
+  border-radius: 20px;
   color: #ffffff;
-  width: 35%;
+  width: 50%;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 10px;
-  margin-bottom: 10px;
+  margin-top: 20px;
+  margin-bottom: 20px;
   border-radius: 2px;
-  box-shadow: 0 0 7px 3px #33FFFF;
+  box-shadow: 0 0 7px 3px #f3fbfb;
 }
 .ThongTinThanhToan:hover {
   background-color: #35353515;
   transform: scale(0.95);
   border-radius: 2px;
-  box-shadow: 0 0 7px 3px #33FFFF;
+  box-shadow: 0 0 7px 3px #e5e6ec;
 }
 .ThongTinThanhToanTitle {
   padding: 0 0;
   margin: 0 0;
-  font-size: 23px;
-  font-weight: 700;
-  color: #00FFFF;}
+  font-size: 30px;
+  font-weight: 100;
+  color: #060e0f;}
 .ThongTinThanhToanText {
   padding: 0 0;
   margin: 5 0;
-  font-size: 20px;
-  font-weight: 500;
-  color: #00CC33;
+  font-size: 1000;
+  font-weight: 1000;
+  color: #e9e9e9;
   margin-top: 5px;
 }
 @media screen and (max-width: 768px) {
@@ -689,8 +689,8 @@ header .td_Color {
     text-align: center;
     width: 100%;
     font-size: 17px;
-    margin-top: 20px; 
-    margin-bottom: 20px;
+    margin-top: 200px; 
+    margin-bottom: 200px;
   }
 }
 
@@ -812,7 +812,7 @@ text-align: center;
 .DateCreater__ {
   font-size: 16px;
 font-family: 'Rowdies';
-  color: rgb(0, 240, 120);
+  color: rgb(236, 236, 236);
   animation: colorRotate 2.5s linear 0s infinite;
        
 }
